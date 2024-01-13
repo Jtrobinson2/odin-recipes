@@ -1,3 +1,2 @@
-# git_test
-
-Hello README.md!
+#Odin Recipes 
+Test repo to write a simple recipes website
